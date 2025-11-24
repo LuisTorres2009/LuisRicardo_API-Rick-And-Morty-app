@@ -18,7 +18,8 @@ O projeto foi construído com foco em **consumo de API REST, gerenciamento de es
 
 ## 📂 Estrutura de Pastas
 
-rick-and-morty-app/
+```text
+LuisRicardo_API-Rick-And-Morty-app
 │── App.js
 │── babel.config.js
 │── package.json
@@ -40,7 +41,7 @@ rick-and-morty-app/
 │   │   └── CharacterDetailScreen.js
 │   └── theme/
 │       └── colors.js
-
+```
 ---
 
 ## ⚙️ Tecnologias Utilizadas
@@ -58,7 +59,7 @@ rick-and-morty-app/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/LuisTorres2009/LuisRicardo_API-Rick-And-Morty-app
-   cd rick-and-morty-app
+   cd LuisRicardo_API-Rick-And-Morty-app
 
 2. Instale as dependências:
    ```bash
